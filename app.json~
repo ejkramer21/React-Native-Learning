@@ -1,8 +1,7 @@
 {
   "expo": {
-    "name": "React-Native First Attempt",
-    "scheme": "aora",
-    "slug": "React-Native-First-Attempt",
+    "name": "React-Native",
+    "slug": "React-Native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
